@@ -1,4 +1,4 @@
-import telebot
+import telebot #только для телеграма
 value = ''
 old_value = ''
 bot = telebot.TeleBot('1988973592:AAFKx_jDtIGkXzlUjeiYu1XNKUl7clW-RQM')
